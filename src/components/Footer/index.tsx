@@ -43,11 +43,11 @@ const Footer: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
             <li>
               <address>
                 Little Lemon <br />
-                331 E Chicago <br />
-                LaSalle Street Chicago,
+                Madhapur <br />
+                Hyderabad,
                 <br />
-                Illinois 60602 <br />
-                USA
+                500081 <br />
+                Telangana
               </address>
             </li>
             <li>
